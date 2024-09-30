@@ -1,4 +1,6 @@
 # Prova-Demo
+A virtual try on platform for intelligent clothes shopping experience on the go.
+
 
 ## Overview
 This repository contains video demonstrations for the Prova project.
